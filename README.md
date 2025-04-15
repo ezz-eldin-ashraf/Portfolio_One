@@ -137,7 +137,7 @@
 
 ---
 
-# ***Functional (System) Decomposition Diagram***
+# ***4. Functional (System) Decomposition Diagram***
 
 ### ***1. User Management***
 
@@ -205,7 +205,6 @@
 - ***Monitor system activity***
 - ***View logs and reports***
 - ***Handle user support and disputes***
-![Functional (System) Decomposition Diagram - visual selection (3).png](attachment:60f29a54-389e-4d16-879d-1b6b687f770a:Functional_(System)_Decomposition_Diagram_-_visual_selection_(3).png)
 
 ---
 
