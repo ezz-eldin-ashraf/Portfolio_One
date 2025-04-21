@@ -1,4 +1,4 @@
-# ***1. Projecttt overview***
+# ***1. Project overview***
 
 ***Pass is a smart mobile application designed to simplify the reservation process for small football playgrounds. The app aims to eliminate the traditional manual process of booking by providing a digital platform that connects playground owners with players.***
 
