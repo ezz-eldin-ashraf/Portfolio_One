@@ -354,7 +354,7 @@ body {
 
 /* start About */
 .about .container {
-  padding-top: var(--sec-padding) 0;
+  padding-top: var(--sec-padding);
   padding-bottom: calc(var(--sec-padding) + 60px);
 }
 .portfolio .container {
