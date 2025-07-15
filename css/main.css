@@ -467,10 +467,16 @@ hr {
   color: white;
   padding: 15px 10px;
   text-align: center;
-  font-size: 18px;
+  font-size: 16px;
 }
 .footer span {
   font-weight: bold;
   color: var(--main-color);
+}
+@media (max-width: 767px) {
+  .footer {
+    padding: 10px 10px;
+    font-size: 12px;
+  }
 }
 /* end footer  */
