@@ -1,3 +1,5 @@
-# Portfolio_One
+# Portfolio_Two
+### My Lv1 in using HTML & CSS 
+#### A project that represents a simple portfolio page
 
-That's my first prject in web development using HTML & CSS
+<sub>This project is based on the Leon theme by Graphberry.</sub>
